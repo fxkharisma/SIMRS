@@ -163,5 +163,3 @@
 | klasifikasiId | `String` | ref ke tabel klasifikasi akun |
 | namaAkun      | `String` | keterangan ...                |
 | level         | `String` | keterangan ...                |
-
-Test
